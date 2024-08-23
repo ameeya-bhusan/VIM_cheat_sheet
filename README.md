@@ -1,5 +1,3 @@
-# VIM_cheat_sheet
-Commands to operate with  VIM file editor
 # 📝 vi/vim Cheat Sheet
 
 A quick reference guide for common `vi`/`vim` commands.
